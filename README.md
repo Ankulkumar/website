@@ -1,4 +1,4 @@
-It is Awesome project
+This is Awesome
 Mono Project Website [![Build Status](https://travis-ci.org/mono/website.svg)](https://travis-ci.org/mono/website)
 ==================================================================================================================
 
